@@ -1,0 +1,35 @@
+
+@import "bootstrap/scss/bootstrap";
+@import "articles.scss";
+
+.container {
+  width: 500px;
+  padding-top: 10px;
+}
+
+a {
+  color: #23527C;
+  font-size: 25px;
+}
+
+nav > a  {
+  color: #7c868e;
+  font-size: 15px;
+}
+
+p {
+  color: #505356;
+}
+
+nav > p  {
+  color: #7c868e;
+  font-size: 15px;
+}
+
+h2 {
+  color: green;
+}
+
+.navbar {
+  box-shadow: 2px 0 3px grey;
+}
